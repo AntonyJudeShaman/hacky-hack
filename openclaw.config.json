@@ -1,0 +1,6 @@
+{
+  "modelProvider": "gemini",
+  "channel": "telegram",
+  "telegramBotToken": "${TELEGRAM_BOT_TOKEN}",
+  "geminiApiKey": "${GEMINI_API_KEY}"
+}
